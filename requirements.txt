@@ -2,3 +2,9 @@ langchain
 langgraph
 langchain-openai
 python-dotenv
+openai
+httpx
+python-dotenv
+anthropic
+fastapi
+uvicorn
